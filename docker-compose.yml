@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image: "pratap15/notes-app:latest"
+     image: "pratap15/notes-app:latet"
      ports :
          - "8000:8000"
